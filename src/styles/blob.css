@@ -1,0 +1,45 @@
+@keyframes rotate {
+    from {
+      rotate: 0deg;
+    }
+
+    50% {
+      scale: 1 1.2;
+    }
+
+    to {
+      rotate: 360deg;
+    }
+  }
+
+  #blob {
+    background-color: white;
+    height: 30vmax;
+    aspect-ratio: 1;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    translate: -50% -50%;
+    border-radius: 50%;
+    background: linear-gradient(to right, rgb(53, 194, 255), rgb(20, 105, 102));
+    animation: rotate 15s infinite;
+    opacity: 0.6;
+    z-index: -5;
+  }
+
+  .background{
+    background-color: "#111111";
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    filter: blur(15vmax);
+  }
+
+  @media screen and (max-width: 750px) {
+    #blob {
+      opacity: 0;
+    }
+  }
