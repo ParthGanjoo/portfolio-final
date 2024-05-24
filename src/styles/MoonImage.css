@@ -35,4 +35,11 @@
     transition-delay: 0s;
 }
 
+@media screen and (max-height: 660px) {
+    .MoonPhoto img {
+      width: 650px;
+    }
+  }
+
+
 
