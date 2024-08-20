@@ -81,7 +81,7 @@ function Header() {
               <Link to="./about">
                 <li>About</li>
               </Link>
-              <a href="https://drive.google.com/file/d/1Te_yvz2C4i4ZgwPmY3UUUQ8o0sDaSMa2/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Résumé</a>
+              <a href="https://drive.google.com/file/d/14UUgJTQ-5B2eShDyjwHsIOnBHKpaMrI6/view?usp=sharing" target="_blank" rel="noopener noreferrer">Résumé</a>
             </ul>
           </div>
         </div>
@@ -97,7 +97,7 @@ function Header() {
           <Link to="./about">
             <li>About</li>
           </Link>
-          <a href="https://drive.google.com/file/d/1V9fobOAW4Uyl_vUS8LWut_X8fzYuH9B_/view?usp=sharing" target="_blank" rel="noopener noreferrer"><li>Résumé</li></a>
+          <a href="https://drive.google.com/file/d/14UUgJTQ-5B2eShDyjwHsIOnBHKpaMrI6/view?usp=sharing" target="_blank" rel="noopener noreferrer"><li>Résumé</li></a>
         </ul>
       </div>
     </div>
