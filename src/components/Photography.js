@@ -154,10 +154,10 @@ import Image151 from '../Assets/Photos/151.jpg';
 import Image152 from '../Assets/Photos/152.jpg';
 import Image153 from '../Assets/Photos/153.jpg';
 import Image154 from '../Assets/Photos/154.jpg';
-import Image160 from '../Assets/Photos/160.jpg';
-import Image161 from '../Assets/Photos/161.jpg';
+import Image160 from '../Assets/Photos/160.png';
+import Image161 from '../Assets/Photos/161.png';
 import Image162 from '../Assets/Photos/162.jpg';
-import Image163 from '../Assets/Photos/163.jpg';
+import Image163 from '../Assets/Photos/163.png';
 import Image164 from '../Assets/Photos/164.jpg';
 import Image165 from '../Assets/Photos/165.jpg';
 
