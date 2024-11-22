@@ -20,7 +20,7 @@ const projects = [
     src: sparshImage,
     color: "#3D8ACF",
     stack: "RedBrick Hacks 2023 Winner",
-    link: "//www.behance.net/gallery/183713529/Sparsh-An-accessible-tap-to-pay-network-for-UPI",
+    link: "//www.behance.net/gallery/209738361/Sparsh-An-accessible-tap-to-pay-network-for-UPI",
   },
   {
     title: "WeGo",
