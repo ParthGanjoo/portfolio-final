@@ -11,7 +11,7 @@ function Home() {
         <div class="container">
             <section id="mainbody" class="">
                 <h1 class="main-title">Hi,<br class="responsive-br" /> I'm Parth.</h1>
-                <h4 class="subtitle">I Design, Develop, and Photograph.</h4>
+                <h4 class="subtitle">I , Develop, and Photograph.</h4>
             </section>
         </div>
       </div>
