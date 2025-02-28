@@ -9,7 +9,7 @@ import wegoImage from "./SliderComponent/images/WeGo Card.png"
 import learnImage from "./SliderComponent/images/LearnWithWilly Card.png"
 import portfolioImage from "./SliderComponent/images/Portfolio Card.png"
 import pinterestImage from "./SliderComponent/images/Pinterest Card.png"
-import virtualImage from "./SliderComponent/images/Virtual Resilience Card.png"
+
 import tangiImage from "./SliderComponent/images/TangiART Card.png"
 import beyondImage from "./SliderComponent/images/Beyond The Canvas Card.png"
 import delayImage from "./SliderComponent/images/UltraDelay Card.png"
@@ -50,13 +50,7 @@ const projects = [
     stack: "React Website for Gifting",
     link: "//github.com/ParthGanjoo/Pinterest-Home-Template",
   },
-  {
-    title: "Virtual Resilience",
-    src: virtualImage,
-    color: "#5c5c5c",
-    stack: "Extended Reality Meditation Experience",
-    link: "//github.com/sociallyencrypted/UDXREndSem",
-  },
+
   {
     title: "TangiART",
     src: tangiImage,
