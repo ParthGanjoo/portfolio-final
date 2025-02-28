@@ -4,6 +4,8 @@ import { useState, useEffect, useRef } from "react";
 import Project from "./SliderComponent";
 import { motion } from "framer-motion";
 import gsap from "gsap";
+
+import medImage from "./SliderComponent/images/MedAssist Card.png"
 import sparshImage from "./SliderComponent/images/Sparsh Card.png"
 import wegoImage from "./SliderComponent/images/WeGo Card.png"
 import learnImage from "./SliderComponent/images/LearnWithWilly Card.png"
@@ -15,6 +17,13 @@ import beyondImage from "./SliderComponent/images/Beyond The Canvas Card.png"
 import delayImage from "./SliderComponent/images/UltraDelay Card.png"
 
 const projects = [
+  {
+    title: "MedAssist",
+    src: medImage,
+    color: "#FFFFFF",
+    stack: "UI/UX and Research",
+    link: "//www.behance.net/gallery/218405177/MedAssist-Medication-Tracker-for-TATA-1mg",
+  },
   {
     title: "Sparsh",
     src: sparshImage,
