@@ -7,7 +7,7 @@ import gsap from "gsap";
 import sparshImage from "./SliderComponent/images/Sparsh Card.png"
 import wegoImage from "./SliderComponent/images/WeGo Card.png"
 import learnImage from "./SliderComponent/images/LearnWithWilly Card.png"
-import portfolioImage from "./SliderComponent/images/Portfolio Card.png"
+
 import pinterestImage from "./SliderComponent/images/Pinterest Card.png"
 
 import tangiImage from "./SliderComponent/images/TangiART Card.png"
@@ -36,13 +36,7 @@ const projects = [
     stack: "UI/UX and Research",
     link: "//www.behance.net/gallery/175548369/Learn-with-Willy-Design-Research-Project",
   },
-  {
-    title: "parthganjoo.me",
-    src: portfolioImage,
-    color: "#000000",
-    stack: "React Portfolio Website",
-    link: "//parthganjoo.me",
-  },
+  
   {
     title: "Pinterest Gift Template",
     src: pinterestImage,
