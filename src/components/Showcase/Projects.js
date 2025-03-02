@@ -9,7 +9,8 @@ import medImage from "./SliderComponent/images/MedAssist Card.png"
 import sparshImage from "./SliderComponent/images/Sparsh Card.png"
 import wegoImage from "./SliderComponent/images/WeGo Card.png"
 import learnImage from "./SliderComponent/images/LearnWithWilly Card.png"
-
+import albumImage from "./SliderComponent/images/AlbumArt Card.png"
+import illumeImage from "./SliderComponent/images/Illume Card.png"
 import pinterestImage from "./SliderComponent/images/Pinterest Card.png"
 
 import tangiImage from "./SliderComponent/images/TangiART Card.png"
@@ -45,7 +46,20 @@ const projects = [
     stack: "UI/UX and Research",
     link: "//www.behance.net/gallery/175548369/Learn-with-Willy-Design-Research-Project",
   },
-  
+  {
+    title: "Album Art",
+    src: albumImage,
+    color: "#3D8ACF",
+    stack: "Graphic Design",
+    link: "//www.behance.net/gallery/165398667/Cover-Art-Graphic-Design",
+  },
+  {
+    title: "Illume",
+    src: illumeImage,
+    color: "#404040",
+    stack: "Product Design",
+    link: "//www.behance.net/gallery/165334181/Illum-Product-Design",
+  },
   {
     title: "Pinterest Gift Template",
     src: pinterestImage,
