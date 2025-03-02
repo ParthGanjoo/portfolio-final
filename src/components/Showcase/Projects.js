@@ -20,7 +20,7 @@ const projects = [
   {
     title: "MedAssist",
     src: medImage,
-    color: "#FFFFFF",
+    color: "#000000",
     stack: "UI/UX and Research",
     link: "//www.behance.net/gallery/218405177/MedAssist-Medication-Tracker-for-TATA-1mg",
   },
